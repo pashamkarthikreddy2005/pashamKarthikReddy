@@ -1,5 +1,7 @@
+<!-- KarthikReddyPasham/README.md -->
+
 👋 Hi, I’m Karthik, or @KarthikReddyPasham!  
-💻 I'm a full-stack developer skilled in Java, Spring Boot, React, and SQL  
+💻 I'm a full-stack developer skilled in Java, Spring Boot, MERN stack (MongoDB, Express, React, Node.js), and SQL  
 🚀 Currently working on backend systems and API integrations at Simplify Money  
 🧠 Exploring machine learning, cloud computing, and scalable architecture  
 🎯 Passionate about clean code, system design, and solving real-world problems  
